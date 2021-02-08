@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Atribuciones
 excerpt: lorem-ipsum
 layout: page
 ---
