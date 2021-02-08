@@ -29,7 +29,8 @@ sections:
     show_recent: true
     recent_count: 3
   - title: lorem-ipsum
-    team: []
+    team:
+      - _data/team/person-r4gnxmpsd.json
     type: team_section
 layout: advanced
 ---
