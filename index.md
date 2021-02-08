@@ -31,6 +31,7 @@ sections:
   - title: lorem-ipsum
     team:
       - _data/team/person-r4gnxmpsd.json
+      - _data/team/person-sofx157oc.json
     type: team_section
 layout: advanced
 ---
